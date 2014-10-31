@@ -23,5 +23,7 @@
     }
   ],
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {
+    "natural": "^0.1.28"
+  }
 }
