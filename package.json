@@ -10,7 +10,7 @@
   "main": "main.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/react"
+    "url": "https://github.com/dandelany/band-name"
   },
   "homepage": "https://github.com/dandelany/band-name",
   "bugs": {
@@ -22,8 +22,8 @@
       "url": "http://www.gnu.org/licenses/gpl-2.0.html"
     }
   ],
-  "dependencies": {},
-  "devDependencies": {
+  "dependencies": {
     "natural": "^0.1.28"
-  }
+  },
+  "devDependencies": {}
 }
