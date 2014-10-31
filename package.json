@@ -1,0 +1,27 @@
+{
+  "name": "band-name",
+  "description": "World's finest band name generator",
+  "author": "Dan Delany <dan.delany@gmail.com>",
+  "version": "1.1.0",
+  "keywords": [
+    "band name",
+    "band name generator"
+  ],
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/facebook/react"
+  },
+  "homepage": "https://github.com/dandelany/band-name",
+  "bugs": {
+    "url": "https://github.com/dandelany/band-name/issues"
+  },
+  "licenses": [
+    {
+      "type": "GNU GPL v2",
+      "url": "http://www.gnu.org/licenses/gpl-2.0.html"
+    }
+  ],
+  "dependencies": {},
+  "devDependencies": {}
+}
