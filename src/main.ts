@@ -87,7 +87,7 @@ function generatePhraseFromTemplate(template: string): string {
   return capitalize(phrase);
 }
 
-export function generate(genre: string | undefined): string {
+export function generate(genre?: string): string {
   if (!genre) {
     genre = Genre.All;
   }
